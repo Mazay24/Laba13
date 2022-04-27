@@ -1,0 +1,24 @@
+nullpackage com.metanit;
+
+public class Main {
+
+    public static void main(String[] args) {
+	System.out.println("Да да        да"); 
+        System.out.println("Это мой "); 
+        System.out.println("котттт"); 
+        System.out.println("Тут чето работает"); 
+        System.out.println("чето нет");
+        System.out.println("а может не чё не работает");
+              
+
+        System.out.println("ну напишу чё нибуть тут");
+        System.out.println("и  тут");  
+        System.out.println(""); 
+        System.out.println(":)");
+        System.out.println("");
+        System.out.println("хахахахаха");
+        System.out.println("это смайлик");
+        System.out.println("ну думаю хватит");
+        System.out.println("да хватит");
+    }
+}
